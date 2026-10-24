@@ -2,7 +2,7 @@
 
 ## Sähkömagneettinen spektri
 
-(SahkomagneettinenSpektri.png)
+Löytyy SahkomagneettinenSpektri-nimisestä kuvatiedostosta
 
 ## Itseäni kiinnostavat sovellukset
 

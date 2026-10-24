@@ -1,0 +1,3 @@
+# C-kohta
+
+Valitsin sijaintini lähistöltä koneen nimeltä FIN7WG, koska se on yksi Finnairin lentokoneista, minkä arvasin jo koneen nimen kolmesta ensimmäisestä merkistä. Olen ollut elämäni aikana monta kertaa lentokoneessa, ja lennot, joilla olen ollut, ovat olleet enimmäkseen Finnairin koneilla. Kone lentää lähes suoraan kohti länttä hieman alaviistoon. Koneen liikkeen sain selville näpäyttämällä koneen kuvaa kartalla. Kone alkoi tallentaa lentorataansa siitä hetkestä alkaen.
