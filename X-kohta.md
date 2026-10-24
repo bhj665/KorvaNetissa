@@ -2,7 +2,7 @@
 
 ## Sähkömagneettinen spektri
 
-(https://github.com/bhj665/KorvaNetissa/blob/main/SahkomagneettinenSpektri.png)
+(SahkomagneettinenSpektri.png)
 
 ## Itseäni kiinnostavat sovellukset
 
